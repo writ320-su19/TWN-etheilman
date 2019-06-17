@@ -1,1 +1,13 @@
 # WRIT 320 Week 3
+---
+The text I examined was from the following source:
+
+Schuster, M. L. (2019). Emotional Appeals and Moral Standards: Rhetorical Arguments in Court Cases. Journal of Technical Writing and Communication, 49(3), 279–308. https://doi.org/10.1177/0047281618773704
+
+>Granting victims of domestic violence the excited utterance exception to the hearsay rule empowers or enhances their voices in the courtroom, but Andrus also found that in granting the exception that the law treats victims of domestic violence as “essential liars” or women who need to be saved from their own bad decisions (p. 182). Redington (2017) extends Andrus’ study when he analyzes how expert witnesses help juries understand technical components in their scientific testimony. He adapts the Toulmin model of argument as well as a specific framework designed to study assertions of technology-related expertise in scientific discourse. Redington finds evidence of paternalism and stereotypes that shape the perceptions of expert witnesses, so much so that such a witness “can be robbed of the privilege of rendering scientific opinions by being relegated to the status of an eyewitness” (p. 414). Thus, scholars such as Andrus and Redington add to our knowledge about not only how, through rhetorical strategies, the law affects culture but also how cultural norms affect the law.
+
+### Revision
+
+>Victims in domestic violence cases are currently given the ability to say things they may not mean, in the understanding that they may not perfectly remember everything, or remembering it could be highly traumatic. However, Andrus believes that this implies that said victims cannot be honest and need to be given special rules that would not be given to anyone else. Redington builds on this in his writings on expert witnesses; he believes that said experts can overshadow and drown out the voices of others who may not have the same kind of professional background. These two scholars have made great contributions to how we view the law and culture together, and how they affect each other.
+
+The changes were mostly to change the wording to be less formal, and giving explanations as to what certain complex concepts mean. The excited utterance exception, for example, would be fairly unknown outside of those with legal experience. Certain ideas that do not add to the overall paragraph are also eliminated, as the revised version is intended to convey the information that exists within it, not to build up the credentials of the people the speaker mentions. Thus, I translated only the basic information and sought to keep the general meaning the same while avoiding complex terms.
